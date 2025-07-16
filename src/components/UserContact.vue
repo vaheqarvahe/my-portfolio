@@ -48,6 +48,7 @@ export default{
     position: fixed;
     bottom: 20px;
     right: 20px;
+    z-index: 100;
 }
 
 .b {
@@ -56,6 +57,7 @@ export default{
     bottom: 20px;
     right: 20px;
     max-height: 600px;
+    z-index: 100;
 }
 
 

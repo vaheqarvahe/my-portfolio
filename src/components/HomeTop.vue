@@ -28,7 +28,7 @@ export default {
     return {
       scrollPosition: 0,
       navLinks: [
-        { text: 'техника', href: '/store' },
+        { text: 'техника', href: '/tech' },
         { text: 'купить', href: '#' },
         { text: 'Доставка и сборка', href: '#' },
         { text: 'Контакты', href: '#' }
@@ -62,10 +62,7 @@ export default {
 .main {
   font-family: Arial, sans-serif;
   margin: 0 auto;
-  position: fixed;
   width: 100%;
-  /* margin-left: -8px;
-  margin-top: -50px; */
   z-index: 10;
 }
 

@@ -97,7 +97,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%); /* Centered */
-    z-index: 1000; /* Ensure it appears above other content */
+    z-index: 1000000; /* Ensure it appears above other content */
     max-width: 500px;
     width: 100%;
     box-sizing: border-box; /* Include padding and border in element’s total width and height */
